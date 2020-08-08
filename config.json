@@ -1,0 +1,12 @@
+{
+  "telegram": {
+    "bot_token": "0000000000:xxxxxxxxxxxx_xxxxxxxxxxxxxxxxxxxxx",
+    "chat_id": "000000000",
+    "disable_notification": false
+  },
+  "device": {
+    "identifier": "iPhoneX,X",
+    "ecid": "XXXXXXXXXXXXXX"
+  },
+  "storage_path": "blobs/"
+}
